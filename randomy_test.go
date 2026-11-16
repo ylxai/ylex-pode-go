@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/core-coin/go-randomy"
+	"github.com/ylxai/ylex-pode-go"
 )
 
 var testPairs = [][][]byte{

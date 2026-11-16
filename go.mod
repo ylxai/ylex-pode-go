@@ -1,4 +1,4 @@
-module github.com/core-coin/go-randomy
+module github.com/ylxai/ylex-pode-go
 
 go 1.21
 
